@@ -4,12 +4,15 @@ Dada una matriz cuadrada N x N calcular la diferencia absoluta de las sumas a lo
 ``
 Entrada:
 3
-11 2 4
-4 5 6
-10 8 -12
+11 2 4   
+4 5 6   
+10 8 -12   
+```
 Salida
+
+```
 15
-``
+```
 ## Problema 2.
 El encargado de una libreria quiere hacer un programa que calcule el costo de la multa que debe pagar una persona si regresa el libro despues de la fecha de entrega.
 * Si el libro es regresado el dia indicado el cargo es igual a 0
