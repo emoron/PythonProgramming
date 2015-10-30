@@ -1,4 +1,5 @@
-## Problema 1. Dada una matriz cuadrada N x N calcular la diferencia absoluta de las sumas a lo largo de las diagonales.
+## Problema 1.
+Dada una matriz cuadrada N x N calcular la diferencia absoluta de las sumas a lo largo de las diagonales.
 
 ``
 Entrada:
