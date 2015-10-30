@@ -2,7 +2,7 @@
 numofCases = input()
 i = 0
 while i < numofCases:
-    numofNumbers = input()
+   # numofNumbers = input()
  
     # raw_input() acepta una entrada como: 1 2 22 232 12 as a string
     # input() puede aceptar solo una entrada
